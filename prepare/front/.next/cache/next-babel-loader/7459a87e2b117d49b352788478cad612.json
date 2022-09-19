@@ -1,0 +1,1 @@
+{"ast":null,"code":"const UserProfile = () => {};","map":{"version":3,"names":["UserProfile"],"sources":["/Users/macbookpro/Desktop/DEV/toyProject/react-sns/prepare/front/pages/components/UserProfile.js"],"sourcesContent":["const UserProfile = () => {\n\n}\n"],"mappings":"AAAA,MAAMA,WAAW,GAAG,MAAM,CAEzB,CAFD"},"metadata":{},"sourceType":"script"}
